@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Bash",
+      "Read",
+      "Edit",
+      "Write",
+      "NotebookEdit",
+      "WebFetch",
+      "WebSearch",
+      "Skill",
+      "Agent",
+      "mcp__*"
+    ]
+  }
+}
